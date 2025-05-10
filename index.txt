@@ -1,1 +1,1 @@
-Ligne modifie depuis main
+Conflit provoque depuis update-index
